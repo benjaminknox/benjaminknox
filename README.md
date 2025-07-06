@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a Full Stack Engineer, DevOps Engineer, UI/UX Designer
 - ❤️ Labors of love: my own [svelte design system](https://github.com/awenovations/aura) and [board buddy (for simple sprint management)](https://github.com/awenovations/boardbuddy).
 - 🌱 Always learning Figma, Svelte, Kubernetes, Docker, and AWS (and much more).
 - 💻 Personal website at [knox.pro](https://knox.pro).
-- 😎 Open source projects I commit to [Brave Browser](https://github.com/brave/brave-core) and [Nala - Brave's Design System](brave/leo)
 
 
 📫 **Connect with me**:
