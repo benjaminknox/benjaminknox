@@ -13,6 +13,7 @@ Welcome to my GitHub! I'm a Full Stack Engineer, DevOps Engineer, UI/UX Designer
 📫 **Connect with me**:
 - LinkedIn: [benjaminknox1](https://www.linkedin.com/in/benjaminknox1/)
 - Email: [ben@knoxes.email](mailto:ben@knoxes.email)
+- X: [@benjaminpknox](https://x.com/benjaminpknox)
 
 ⚡ **Fun fact**: [🗺️ Cincinnati](https://www.google.com/maps/place/Cincinnati,+OH/@39.1366523,-84.8706063,10z/data=!3m1!4b1!4m6!3m5!1s0x884051b1de3821f9:0x69fb7e8be4c09317!8m2!3d39.1031182!4d-84.5120196!16zL20vMDFzbm0?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D)  is my favorite city because of the [coffee ☕️](https://www.deeperrootscoffee.com/)!
 
